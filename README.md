@@ -9,7 +9,7 @@ Annotated compound database of food chemicals reported with epigenetic activity 
 
 **2. TableS1_Diseasesandgenes.csv**
 
-Table with the list of diseases/genes obtained in the literature search.
+Table with the list of diseases/genes obtained in the literature search  in csv format.
 
 **3. SAS_maps directory**
 
