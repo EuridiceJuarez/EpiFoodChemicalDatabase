@@ -1,0 +1,231 @@
+Epigenetic target ,Target type,Epigenetic tool,Gene,Associated diseases,Reference (DOI) 
+DNMT,Enzyme,Writer,"RARbeta, p16INK4a y MGMT",Squamous cell carcinoma of the esophagus,10.3389/fonc.2020.605386
+DNMT,Enzyme,Writer,RARbeta,Prostate cancer,10.3389/fonc.2020.605387
+DNMT,Enzyme,Writer,RARbeta,Breast cancer ,10.3389/fonc.2020.605388
+DNMT,Enzyme,Writer,Not reported,Neuroblastoma,10.3389/fonc.2020.605389
+DNMT,Enzyme,Writer,RUNX3,Colorectal adenocarcinoma ,10.3390/nu13113714
+DNMT,Enzyme,Writer,GLP1R,Diabetes mellitus type 2,10.1007/s11010-021-04285-0
+DNMT,Enzyme,Writer,ADCY5,Diabetes mellitus type 2,10.3390/biomedicines9080977
+DNMT,Enzyme,Writer,CDKN1A,Diabetes mellitus type 2,10.3390/biomedicines9080977
+DNMT,Enzyme,Writer,FTO,Diabetes mellitus type 2,10.3390/biomedicines9080977
+DNMT,Enzyme,Writer,INS,Diabetes mellitus type 2,10.3390/biomedicines9080977
+DNMT,Enzyme,Writer,KCNQ1,Diabetes mellitus type 2,10.3390/biomedicines9080977
+DNMT,Enzyme,Writer,PDE7B,Diabetes mellitus type 2,10.3390/biomedicines9080977
+DNMT,Enzyme,Writer,PDX1,Diabetes mellitus type 2,10.3390/biomedicines9080977
+DNMT,Enzyme,Writer,PPARGC1A,Diabetes mellitus type 2,10.3390/biomedicines9080977
+DNMT,Enzyme,Writer,sep-09,Diabetes mellitus type 2,10.3390/biomedicines9080977
+DNMT,Enzyme,Writer,SOCS2,Diabetes mellitus type 2,10.3390/biomedicines9080977
+DNMT,Enzyme,Writer,TCF7L2,Diabetes mellitus type 2,10.3390/biomedicines9080977
+DNMT,Enzyme,Writer,ATP10A,Obesity,10.3390/biomedicines9080977
+DNMT,Enzyme,Writer,IRS1,Obesity,10.3390/biomedicines9080977
+DNMT,Enzyme,Writer,JARID2,Obesity,10.3390/biomedicines9080977
+DNMT,Enzyme,Writer,KCNQ1,Obesity,10.3390/biomedicines9080977
+DNMT,Enzyme,Writer,NDUFB4,Obesity,10.3390/biomedicines9080977
+DNMT,Enzyme,Writer,PPARG,Obesity,10.3390/biomedicines9080977
+DNMT,Enzyme,Writer,TCF7L2,Obesity,10.3390/biomedicines9080977
+DNMT,Enzyme,Writer,PDX1,Diabetes mellitus type 2,10.1186/s13148-020-00896-4
+DNMT,Enzyme,Writer,PPARGC1A,Diabetes mellitus type 2,10.1186/s13148-020-00896-4
+DNMT,Enzyme,Writer,FOSL2,Diabetes mellitus type 2,10.1186/s13148-020-00896-4
+DNMT,Enzyme,Writer,PTPN1,Diabetes mellitus type 2,10.1186/s13148-020-00896-4
+DNMT,Enzyme,Writer,SLC30A8,Diabetes mellitus type 2,10.1186/s13148-020-00896-4
+DNMT,Enzyme,Writer,IGF-1,Diabetes mellitus type 2,10.1186/s13148-020-00896-4
+DNMT,Enzyme,Writer,IGFBP-1,Diabetes mellitus type 2,10.1186/s13148-020-00896-4
+DNMT,Enzyme,Writer,IGFBP-7,Diabetes mellitus type 2,10.1186/s13148-020-00896-4
+DNMT,Enzyme,Writer,GCK,Diabetes mellitus type 2,10.1186/s13148-020-00896-4
+DNMT,Enzyme,Writer,MCP-1,Diabetes mellitus type 2,10.1186/s13148-020-00896-4
+DNMT,Enzyme,Writer,TP53,Diabetes mellitus type 2,10.1186/s13148-020-00896-4
+DNMT,Enzyme,Writer,BRCA1,Diabetes mellitus type 2,10.1186/s13148-020-00896-4
+DNMT,Enzyme,Writer,SCARA3,Diabetes mellitus type 2,10.1186/s13148-020-00896-4
+DNMT,Enzyme,Writer,PRDX2,Diabetes mellitus type 2,10.1186/s13148-020-00896-4
+DNMT,Enzyme,Writer,PRKCZ,Diabetes mellitus type 2,10.1186/s13148-020-00896-4
+DNMT,Enzyme,Writer,GIPR,Diabetes mellitus type 2,10.1186/s13148-020-00896-4
+DNMT,Enzyme,Writer,PTPRD,Diabetes mellitus type 2,10.1186/s13148-020-00896-4
+DNMT,Enzyme,Writer,PDK4,Diabetes mellitus type 2,10.1186/s13148-020-00896-4
+DNMT,Enzyme,Writer,PPARG,Diabetes mellitus type 2,10.1186/s13148-020-00896-4
+DNMT,Enzyme,Writer,ABCG1,Diabetes mellitus type 2,10.1186/s13148-020-00896-4
+DNMT,Enzyme,Writer,FOSFO1,Diabetes mellitus type 2,10.1186/s13148-020-00896-4
+DNMT,Enzyme,Writer,TXNIP,Diabetes mellitus type 2,10.1186/s13148-020-00896-4
+DNMT,Enzyme,Writer,SREBF1,Diabetes mellitus type 2,10.1186/s13148-020-00896-4
+DNMT,Enzyme,Writer,EXOC3L2,Diabetes mellitus type 2,10.1186/s13148-020-00896-4
+DNMT,Enzyme,Writer,CDKN1A,Diabetes mellitus type 2,10.1186/s13148-020-00896-4
+DNMT,Enzyme,Writer,PDE7B,Diabetes mellitus type 2,10.1186/s13148-020-00896-4
+DNMT,Enzyme,Writer,sep-09,Diabetes mellitus type 2,10.1186/s13148-020-00896-4
+DNMT,Enzyme,Writer,SLC2A2,Diabetes mellitus type 2,10.1186/s13148-020-00896-4
+DNMT,Enzyme,Writer,DVL1,Diabetes mellitus type 2,10.1186/s13148-020-00896-4
+DNMT,Enzyme,Writer,HIST1H4D,Diabetes mellitus type 2,10.1186/s13148-020-00896-4
+DNMT,Enzyme,Writer,LOXL2,Diabetes mellitus type 2,10.1186/s13148-020-00896-4
+DNMT,Enzyme,Writer,SLC1A5,Diabetes mellitus type 2,10.1186/s13148-020-00896-4
+DNMT,Enzyme,Writer,FTO,Diabetes mellitus type 2,10.1186/s13148-020-00896-4
+DNMT,Enzyme,Writer,MSI2,Diabetes mellitus type 2,10.1186/s13148-020-00896-4
+DNMT,Enzyme,Writer,NR4A1,Diabetes mellitus type 2,10.1186/s13148-020-00896-4
+DNMT,Enzyme,Writer,Not reported,Atherosclerosis,10.1016/j.tem.2018.04.007
+DNMT,Enzyme,Writer,HOXA,Alzheimer's,10.3390/genes12121959
+DNMT1,Enzyme,Writer,"CEACAM5, DHRS3, RGS16",Breast cancer ,10.3389/fonc.2020.605386
+DNMT1,Enzyme,Writer,RARβ2 ,Breast cancer ,10.3389/fonc.2020.605386
+DNMT1,Enzyme,Writer,"RARb, p12 y p16",Bladder cervical cancer,10.3389/fonc.2020.605386
+DNMT1,Enzyme,Writer,APC,Cervical cancer,10.3389/fonc.2020.605386
+DNMT1,Enzyme,Writer,p21,Prostate cancer,10.3389/fonc.2020.605386
+DNMT1,Enzyme,Writer,APC y RARB,Prostate cancer,10.3389/fonc.2020.605386
+DNMT1,Enzyme,Writer,Not reported,Colon cancer,10.3389/fonc.2020.605386
+DNMT1,Enzyme,Writer,SLIT2 y TIMP-3,Lung cancer,10.3389/fonc.2020.605386
+DNMT1,Enzyme,Writer,WIF-1,Non-small cell lung cancer,10.3389/fonc.2020.605386
+DNMT1,Enzyme,Writer,HIF-1Alfa,Myeloid leukemia,10.3389/fonc.2020.605386
+DNMT1,Enzyme,Writer,p15,Myeloid leukemia,10.3389/fonc.2020.605386
+DNMT1,Enzyme,Writer,CDKN2A y RARb,Gastric cancer,10.3389/fonc.2020.605386
+DNMT1,Enzyme,Writer,RASSF1A,Prostate cancer,10.3390/nu13113714
+DNMT1,Enzyme,Writer,NR4A1,Diabetes mellitus type 2,10.1007/s11010-021-04285-0
+DNMT1,Enzyme,Writer,PDX1,Diabetes mellitus type 2,10.1186/s13148-020-00896-4
+DNMT3a,Enzyme,Writer,RARβ2 ,Breast cancer ,10.3389/fonc.2020.605386
+DNMT3a,Enzyme,Writer,"CEACAM5, DHRS3, RGS16",Breast cancer ,10.3389/fonc.2020.605386
+DNMT3a,Enzyme,Writer,CDKN2A y RARb,Gastric cancer,10.3389/fonc.2020.605386
+DNMT3a,Enzyme,Writer,"p16, HAI-2/PB y NQO1",Hepatocellular carcinoma,10.3389/fonc.2020.605386
+DNMT3a,Enzyme,Writer,WIF-1,Non-small cell lung cancer,10.3389/fonc.2020.605386
+DNMT3b,Enzyme,Writer,RASSF1A,Colon cancer,10.3389/fonc.2020.605386
+DNMT3b,Enzyme,Writer,RASSF1A,Lung cancer,10.3389/fonc.2020.605386
+DNMT3b,Enzyme,Writer,RASSF1A,Prostate cancer,10.3389/fonc.2020.605386
+DNMT3b,Enzyme,Writer,RASSF1A,Prostate cancer,10.3390/nu13113714
+HDAC,Enzyme,Eraser,"RARβ, MGMT, p16INK4a y hMLH1",Squamous cell carcinoma,10.3389/fonc.2020.605386
+HDAC,Enzyme,Eraser,p21,Lung carcinoma,10.3389/fonc.2020.605386
+HDAC,Enzyme,Eraser," p-RB, p15, p16, p21, p27",Neuroblastoma,10.3389/fonc.2020.605386
+HDAC,Enzyme,Eraser,Not described,Multiple myeloma,10.3389/fonc.2020.605386
+HDAC,Enzyme,Eraser,Not described,Atherosclerosis,10.1016/j.tem.2018.04.007
+HDAC,Enzyme,Eraser,Not described,Obesity and metabolic diseases,10.1111/obr.13054
+HDAC 1,Enzyme,Eraser,HIF-1alfa,Colon cancer,10.3389/fonc.2020.605386
+HDAC 1,Enzyme,Eraser,MITF-M,Melanoma ,10.3389/fonc.2020.605386
+HDAC 1,Enzyme,Eraser,"BRCA1,2 /Ras/ERα/ERβ/PR/Her y p21/p53",Breast cancer ,10.3389/fonc.2020.605386
+HDAC 1,Enzyme,Eraser,HIN-1,Thyroid cancer,10.3389/fonc.2020.605386
+HDAC 1,Enzyme,Eraser,p21,Prostate cancer,10.3389/fonc.2020.605386
+HDAC 1,Enzyme,Eraser,DAPK,Gastric cancer,10.3389/fonc.2020.605386
+HDAC 1,Enzyme,Eraser,Not described,Gastric cancer,10.2174/0929867325666180530094120
+HDAC 1,Enzyme,Eraser,Not described,Breast cancer ,10.2174/0929867325666180530094120
+HDAC 1,Enzyme,Eraser,Not described,Esophagus cancer,10.2174/0929867325666180530094120
+HDAC 1,Enzyme,Eraser,Not described,Colon cancer,10.2174/0929867325666180530094120
+HDAC 1,Enzyme,Eraser,Not described,Cutaneous T-cell lymphoma,10.2174/0929867325666180530094120
+HDAC 1,Enzyme,Eraser,Not described,Prostate cancer,10.2174/0929867325666180530094120
+HDAC 2 ,Enzyme,Eraser,Not described,Melanoma ,10.3389/fonc.2020.605386
+HDAC 2 ,Enzyme,Eraser,Not described,Colon cancer,10.3389/fonc.2020.605386
+HDAC 2,Enzyme,Eraser,MICA,Non-small cell lung cancer,10.3389/fonc.2020.605386
+HDAC 2,Enzyme,Eraser,WWOX y P27,Ovarian cancer,10.3389/fonc.2020.605386
+HDAC 2,Enzyme,Eraser," BRCA1, 2/Ras/ERα/ERβ/PR/Her",Breast cancer ,10.3389/fonc.2020.605386
+HDAC 2,Enzyme,Eraser,Not described,Colon cancer,10.2174/0929867325666180530094120
+HDAC 2,Enzyme,Eraser,Not described,Prostate cancer,10.2174/0929867325666180530094120
+HDAC 2,Enzyme,Eraser,Not described,Gastric cancer,10.2174/0929867325666180530094120
+HDAC 2,Enzyme,Eraser,Not described,Endometrial cancer,10.2174/0929867325666180530094120
+HDAC 2,Enzyme,Eraser,Not described,Cutaneous T-cell lymphoma,10.2174/0929867325666180530094120
+HDAC 2,Enzyme,Eraser,Not described,Alzheimer's,10.3390/genes12121959
+HDAC 3,Enzyme,Eraser,p21,Promyelocytic leukemia,10.3389/fonc.2020.605386
+HDAC 3,Enzyme,Eraser,SUV39 y G9a,Lung cancer,10.3389/fonc.2020.605386
+HDAC 3,Enzyme,Eraser,"p16, SALL3 y GATA4",Colon and pancreatic cancer,10.3389/fonc.2020.605386
+HDAC 3,Enzyme,Eraser,PHD2 y p21,Cervical cancer,10.3389/fonc.2020.605386
+HDAC 3,Enzyme,Eraser,ER alfa y Erb,Breast cancer ,10.3389/fonc.2020.605386
+HDAC 3,Enzyme,Eraser,Not described,Endometrial cancer,10.3389/fonc.2020.605386
+HDAC 3,Enzyme,Eraser,Not described,Breast cancer ,10.2174/0929867325666180530094120
+HDAC 3,Enzyme,Eraser,Not described,Colon cancer,10.2174/0929867325666180530094120
+HDAC 3,Enzyme,Eraser,Not described,Prostate cancer,10.2174/0929867325666180530094120
+HDAC 3,Enzyme,Eraser,Not described,Atherosclerosis,10.1097/MOL.0000000000000711
+HDAC 3,Enzyme,Eraser,Not described,Atherosclerosis,10.1097/MOL.0000000000000711
+HDAC 3,Enzyme,Eraser,Not described,Alzheimer's,10.3390/genes12121959
+HDAC 4,Enzyme,Eraser,p21,Promyelocytic leukemia,10.3389/fonc.2020.605386
+HDAC 4,Enzyme,Eraser,SUV39 y G9a,Lung cancer,10.3389/fonc.2020.605386
+HDAC 4,Enzyme,Eraser,"p16, SALL3 y GATA4",Colon and pancreatic cancer,10.3389/fonc.2020.605386
+HDAC 4,Enzyme,Eraser,PHD2 y p21,Cervical cancer,10.3389/fonc.2020.605386
+HDAC 4,Enzyme,Eraser,ER alfa y Erb,Breast cancer ,10.3389/fonc.2020.605386
+HDAC 4,Enzyme,Eraser,Not described,Endometrial cancer,10.3389/fonc.2020.605386
+HDAC 4,Enzyme,Eraser,RECK y MMP-2,Ovarian cancer,10.3389/fonc.2020.605386
+HDAC 4,Enzyme,Eraser,Not described,Breast cancer ,10.2174/0929867325666180530094120
+HDAC 4,Enzyme,Eraser,Not described,Bladder carcinoma,10.2174/0929867325666180530094120
+HDAC 5,Enzyme,Eraser,Not described,Lung cancer,10.2174/0929867325666180530094120
+HDAC 5,Enzyme,Eraser,Not described,Melanoma ,10.2174/0929867325666180530094120
+HDAC 5,Enzyme,Eraser,Not described,Acute myeloid leukemia,10.2174/0929867325666180530094120
+HDAC 6,Enzyme,Eraser," BRCA1, 2/Ras/ERα/ERβ/PR/Her",Breast cancer ,10.3389/fonc.2020.605386
+HDAC 6,Enzyme,Eraser,Not described,Breast cancer ,10.2174/0929867325666180530094120
+HDAC 6,Enzyme,Eraser,Not described,Oral cancer,10.2174/0929867325666180530094120
+HDAC 6,Enzyme,Eraser,Not described,Cutaneous T-cell lymphoma,10.2174/0929867325666180530094120
+HDAC 7,Enzyme,Eraser,Not described,Pancreatic adenocarcinomas,10.2174/0929867325666180530094120
+HDAC 7,Enzyme,Eraser,Not described,Colorectal cancer,10.2174/0929867325666180530094120
+HDAC 7,Enzyme,Eraser,PDX1,Diabetes mellitus type 2,10.2147/DMSO.S291932
+HDAC 8,Enzyme,Eraser,p21,Promyelocytic leukemia,10.3389/fonc.2020.605386
+HDAC 8,Enzyme,Eraser,SUV39 y G9a,Lung cancer,10.3389/fonc.2020.605386
+HDAC 8,Enzyme,Eraser,"p16, SALL3 y GATA4",Colon and pancreatic cancer,10.3389/fonc.2020.605386
+HDAC 8,Enzyme,Eraser,PHD2 y p21,Cervical cancer,10.3389/fonc.2020.605386
+HDAC 8,Enzyme,Eraser,ER alfa y Erb,Breast cancer ,10.3389/fonc.2020.605386
+HDAC 8,Enzyme,Eraser,Not described,Oral squamous cell carcinoma,10.3389/fonc.2020.605386
+HDAC 8,Enzyme,Eraser,Not described,Non-small cell lung cancer,10.2174/0929867325666180530094120
+HDAC 8,Enzyme,Eraser,Not described,Colon cancer,10.2174/0929867325666180530094120
+HDAC 8,Enzyme,Eraser,Not described,Breast cancer ,10.2174/0929867325666180530094120
+HDAC 8,Enzyme,Eraser,Not described,Neuroblastoma,10.2174/0929867325666180530094120
+HDAC 9,Enzyme,Eraser,Not described,Lung cancer,10.2174/0929867325666180530094120
+HDAC 9,Enzyme,Eraser,Not described,Meduloblastomas ,10.2174/0929867325666180530094120
+HDAC 9,Enzyme,Eraser,Not described,Astrocytomas,10.2174/0929867325666180530094120
+HDAC 10,Enzyme,Eraser,Not described,Lung cancer,10.2174/0929867325666180530094120
+HDAC 10,Enzyme,Eraser,Not described,Hepatocellular carcinoma,10.2174/0929867325666180530094120
+HDAC 11,Enzyme,Eraser,Not described,Hodgkin lymphoma,10.2174/0929867325666180530094120
+SIRT 1,Enzyme,Eraser,Not described,Ovarian cancer,10.3389/fonc.2020.605386
+SIRT 1,Enzyme,Eraser,Not described,Colon cancer,10.3389/fonc.2020.605386
+SIRT 1,Enzyme,Eraser,Not described,Cervical cancer,10.3389/fonc.2020.605386
+SIRT 1,Enzyme,Eraser,"p21, pRb y CDK",Endometrial cancer,10.3389/fonc.2020.605386
+SIRT 1,Enzyme,Eraser,p53,Breast cancer ,10.3389/fonc.2020.605386
+SIRT 1,Enzyme,Eraser,p53,Acute myeloid leukemia,10.2174/0929867325666180530094120
+SIRT 1,Enzyme,Eraser,p53,Colon cancer,10.2174/0929867325666180530094120
+SIRT 1,Enzyme,Eraser,p53,Bladder cancer,10.2174/0929867325666180530094120
+SIRT 1,Enzyme,Eraser,p53,Prostate cancer,10.2174/0929867325666180530094120
+SIRT 1,Enzyme,Eraser,p53,Ovarian cancer,10.2174/0929867325666180530094120
+SIRT 1,Enzyme,Eraser,Not described,Atherosclerosis,10.1016/j.tem.2018.04.007
+SIRT 1,Enzyme,Eraser,p300,Alzheimer's,10.3390/genes12121959
+SIRT 2,Enzyme,Eraser,Not described,Glioma ,10.2174/0929867325666180530094120
+SIRT 3,Enzyme,Eraser,Not described,Breast cancer ,10.2174/0929867325666180530094120
+SIRT 4,Enzyme,Eraser,Not described,Breast cancer ,10.2174/0929867325666180530094120
+SIRT5,Enzyme,Eraser,Not described,Breast cancer ,10.2174/0929867325666180530094120
+SIRT5,Enzyme,Eraser,Not described,Pancreatic cancer,10.2174/0929867325666180530094120
+SIRT6,Enzyme,Eraser,ER,Breast cancer ,10.3389/fonc.2020.605386
+SIRT6,Enzyme,Eraser,"Myc ZNF278 (coactivador de Myc), NM1, HOXB6 y MKRN3",Myeloid leukemia,10.3389/fonc.2020.605386
+SIRT6,Enzyme,Eraser,PI3K/Akt y ERK1/2,Squamous cell carcinoma of the esophagus,10.3389/fonc.2020.605386
+SIRT6,Enzyme,Eraser,TMPRSS2-ERG y p53,Prostate cancer,10.3389/fonc.2020.605386
+SIRT6,Enzyme,Eraser,p21,Pancreatic cancer,10.3389/fonc.2020.605386
+SIRT6,Enzyme,Eraser,"p21, p27 y p57",Colon cancer,10.3389/fonc.2020.605386
+SIRT6,Enzyme,Eraser,ATP2A3,Hepatocellular carcinoma,10.3389/fonc.2020.605386
+SIRT6,Enzyme,Eraser,Not described,Colon cancer,10.2174/0929867325666180530094120
+SIRT6,Enzyme,Eraser,Not described,Breast cancer ,10.2174/0929867325666180530094120
+SIRT7,Enzyme,Eraser,Not described,Breast cancer ,10.2174/0929867325666180530094120
+HAT/Ep300,Enzyme,Writer,"EP300, IkBalfa y p65",Cervical tumor cells,10.3389/fonc.2020.605386
+HAT/Ep300,Enzyme,Writer,"EP300, IkBalfa y p65",Myeloid leukemia,10.3389/fonc.2020.605386
+HAT/Ep300,Enzyme,Writer,"EP300, IkBalfa y p65",T cell lymphoma,10.3389/fonc.2020.605386
+HAT/Ep300,Enzyme,Writer,"EP300, IkBalfa y p65",Prostate cancer,10.3389/fonc.2020.605386
+HAT2B/Ep300,Enzyme,Writer,p300 y KAT2B,Cervical cancer,10.3389/fonc.2020.605386
+HAT2B/Ep300,Enzyme,Writer,Not described,Breast cancer ,10.3389/fonc.2020.605386
+HAT2B/Ep300,Enzyme,Writer,Not described,Hepatocellular carcinoma,10.3389/fonc.2020.605386
+HAT2B/Ep300,Enzyme,Writer,p300/CBP,Esophageal carcinoma,10.3389/fonc.2020.605386
+HAT3B/p300,Enzyme,Writer,p300 y p53,Liver carcinoma,10.3389/fonc.2020.605386
+PRMT1,Enzyme,Writer,AMI-1,Hepatocellular carcinoma,10.3389/fonc.2020.605386
+EZH2,Enzyme,Writer," EZH2, eIF4E e IMPDH1",Breast cancer ,10.3389/fonc.2020.605386
+EZH2,Enzyme,Writer," EZH2, eIF4E e IMPDH1",Brain cancer,10.3389/fonc.2020.605386
+EZH2,Enzyme,Writer," EZH2, eIF4E e IMPDH1",Cervical cancer,10.3389/fonc.2020.605386
+EZH2,Enzyme,Writer," EZH2, eIF4E e IMPDH1",Colon cancer,10.3389/fonc.2020.605386
+EZH2,Enzyme,Writer," EZH2, eIF4E e IMPDH1",Prostate cancer,10.3389/fonc.2020.605386
+EZH2,Enzyme,Writer,UNC13B,Diabetic nephropathy ,10.1016/j.metabol.2021.154920
+EZH2,Enzyme,Writer,Not described,Atherosclerosis,10.1016/j.tem.2018.04.007
+LSD1,Enzyme,Eraser,Not described,Bladder cancer,10.3389/fonc.2020.605386
+LSD1,Enzyme,Eraser,Not described,Colon cancer,10.3389/fonc.2020.605386
+LSD1,Enzyme,Eraser,Not described,Promyelocytic leukemia,10.3389/fonc.2020.605386
+LSD1,Enzyme,Eraser,NTRK2,Promyelocytic leukemia,10.3389/fonc.2020.605386
+LSD1,Enzyme,Eraser,Not described,Prostate cancer,10.3389/fonc.2020.605386
+LSD1,Enzyme,Eraser,Not described,Glioblastoma,10.3389/fonc.2020.605386
+BET/BDR4,Enzyme,Reader,Not described,Leukemia MLL,10.3389/fonc.2020.605386
+KDM1A,Enzyme,Eraser,p53 y E2F1,"Leukemia, prostate cancer, breast cancer and neuroblastoma",10.3389/fgene.2021.680633
+KDM1B,Enzyme,Eraser,Not described,Breast cancer ,10.3389/fgene.2021.680633
+KDM2A,Enzyme,Eraser,PCD4 y E2F1,"Leukemia, gastric cancer and breast cancer",10.3389/fgene.2021.680633
+KDM2B,Enzyme,Eraser,KRAS,"Leukemia, pancreatic cancer, ovarian cancer, gastric cancer and glioma ",10.3389/fgene.2021.680633
+KDM3A,Enzyme,Eraser,Not described,"Breast cancer, ovarian cancer, Ewing's sarcoma, and prostate cancer",10.3389/fgene.2021.680633
+KDM3B,Enzyme,Eraser,Not described,Leukemia,10.3389/fgene.2021.680633
+KDM4A,Enzyme,Eraser,Not described,"Endometrial cancer, lung cancer, prostate cancer, and breast cancer",10.3389/fgene.2021.680633
+KDM4B,Enzyme,Eraser,PTEN,Breast cancer and colorectal cancer,10.3389/fgene.2021.680633
+KDM4C,Enzyme,Eraser,Not described,Prostate cancer,10.3389/fgene.2021.680633
+KDM4D,Enzyme,Eraser,Not described,Prostate cancer,10.3389/fgene.2021.680633
+KDM5A,Enzyme,Eraser,pRB,"Leukemia, breast cancer, ovarian cancer and melanoma",10.3389/fgene.2021.680633
+KDM5B,Enzyme,Eraser,BRCA1 y CAV1,"Breast cancer, prostate cancer and melanoma",10.3389/fgene.2021.680633
+KDM5C,Enzyme,Eraser,Not described,Cervical cancer,10.3389/fgene.2021.680633
+KDM5D,Enzyme,Eraser,Not described,Prostate cancer,10.3389/fgene.2021.680633
+KDM6A,Enzyme,Eraser,MYC y RUNX3,"Bladder cancer, cervical cancer, breast cancer, multiple myeloma, lung cancer, and pancreatic cancer",10.3389/fgene.2021.680633
+KDM6B,Enzyme,Eraser,FOXO1,"Lung cancer, colon cancer, pancreatic cancer, prostate cancer, multiple myeloma, acute myeloid leukemia, melanoma, and ovarian cancer",10.3389/fgene.2021.680633
+KDM7A,Enzyme,Eraser,Not described,Melanoma and cervical cancer and prostate cancer,10.3389/fgene.2021.680633
+KDM8,Enzyme,Eraser,CCND1,Breast cancer and prostate cancer,10.3389/fgene.2021.680633
