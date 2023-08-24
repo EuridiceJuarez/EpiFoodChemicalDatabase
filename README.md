@@ -11,6 +11,10 @@ Annotated compound database of food chemicals reported with epigenetic activity 
 
 Table with the list of diseases/genes obtained in the literature search  in csv format.
 
+**3. TableS2_Researchpapers.csv**
+
+List of 436 research papers used to build the Epi Food Chemical Database.
+
 **3. SAS_maps directory**
 
 Interactive SAS maps plots of compounds in the Epi Food Chemical Database (use README file to execute them).
